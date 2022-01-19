@@ -3,7 +3,7 @@
 ## Description
 This budget tracker allows a user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
-To test the application offline, go "Offline" in the Network tab of your Developer Tools in your browser. To come back online, switch back to "No throttling". The trasnactions will stay put either way!
+To test the application offline, go "Offline" in the Network tab of your Developer Tools in your browser. To come back online, switch back to "No throttling". The transactions will stay put either way!
 
 [Deployed App](https://progressive-budget-mw.herokuapp.com/)
 
